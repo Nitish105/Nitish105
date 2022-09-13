@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish105&label=Profile%20views&color=0e75b6&style=flat" alt="nitish105" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nitish105" target="blank"><img src="https://img.shields.io/twitter/follow/nitish105?logo=twitter&style=for-the-badge" alt="nitish105" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Nitishk466770935" target="blank"><img src="https://img.shields.io/twitter/follow/nitish105?logo=twitter&style=for-the-badge" alt="nitish105" /></a> </p>
 
 - 🔭 I’m currently working on **Kotlin & MERN projects**
 
