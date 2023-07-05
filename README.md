@@ -1,7 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) 
-
 <h1 align="center">Hi 👋, I'm NITISH KUMAR 😎</h1>
-<h3 align="center">A passionate & self Learner👉 FULL STACK JAVA || REACT</h3>
+<h3 align="center">A passionate & self Learner👉 FULL STACK JAVA || FRONTEND </h3>
 RESUME LINK 👉 https://drive.google.com/file/d/15AxRTAuQD3svkjfB34ZgOmnsV7-wlEM1/view?usp=sharing
 <img align="right" alt="coding" width="400" src="https://github.com/Nitish105/Nitish105/assets/83354680/942530c3-689a-4fd6-b882-13545e459e21.gif">
 
@@ -10,11 +8,11 @@ RESUME LINK 👉 https://drive.google.com/file/d/15AxRTAuQD3svkjfB34ZgOmnsV7-wlE
 
 <p align="left"> <a href="https://twitter.com/nitishk46770935" target="blank"><img src="https://img.shields.io/twitter/follow/nitishk46770935?logo=twitter&style=for-the-badge" alt="nitishk46770935" /></a> </p>
 
-- 🔭 I’m currently working on **FULL STACK JAVA**
+- 🔭 I’m currently working on **FULL STACK JAVA || FRONTEND**
 
 - 🌱 I’m currently learning **Core Java, Servlet, JSP, Hibernate, SpringBoot, Microservices || Data Structure & Algorithm in Java. || Database: MYSQL, MongoDB || Fronted Library: React**
 
-- 💬 Ask me about **JAVA || REACT || SQL **
+- 💬 Ask me about ** const mySkills = { "Backend": "JAVA", "Frontend": "REACT", "Databases": "SQL" } **
 
 - 📫 How to reach me **nitishkumar105.singh@gmail.com**
 
