@@ -12,7 +12,7 @@ RESUME LINK 👉 https://drive.google.com/file/d/15AxRTAuQD3svkjfB34ZgOmnsV7-wlE
 
 - 🌱 I’m currently learning **Core Java, Servlet, JSP, Hibernate, SpringBoot, Microservices || Data Structure & Algorithm in Java. || Database: MYSQL, MongoDB || Fronted Library: React**
 
-- 💬 Ask me about ** const mySkills = { "Backend": "JAVA", "Frontend": "REACT", "Databases": "SQL" } **
+- 💬 Ask me about ** const mySkills = { "Language" : "JAVA", "C++", "Frontend" : "REACT", "Backend" : "SpringBoot", "Databases" : "SQL", "NoSQL" } **
 
 - 📫 How to reach me **nitishkumar105.singh@gmail.com**
 
