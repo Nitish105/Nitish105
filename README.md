@@ -15,7 +15,7 @@ RESUME LINK 👉 https://drive.google.com/file/d/15AxRTAuQD3svkjfB34ZgOmnsV7-wlE
 - 💬 Ask me about ** <br>  const mySkills🎯 = {
                     <br>              "Languages" : "JAVA", "C++",
                     <br>              "Frontend-Library" : "REACT",
-                    <br>              "Backend-Tool" : "SpringBoot",
+                    <br>              "Backend-Framework" : "Hibernate", "SpringBoot",
                     <br>              "Databases" : "SQL", "NoSQL"
                     <br>             } ** 
 
