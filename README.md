@@ -13,7 +13,7 @@ RESUME LINK 👉 https://drive.google.com/file/d/15AxRTAuQD3svkjfB34ZgOmnsV7-wlE
 - 🌱 I’m currently learning **Core Java, Servlet, JSP, Hibernate, SpringBoot, Microservices || Data Structure & Algorithm in Java. || Database: MYSQL, MongoDB || Fronted Library: React**
 
 - 💬 Ask me about ** <br>  const mySkills🎯 = {
-                    <br>              "Languages" : "JAVA", "C++",
+                    <br>              "Languages" : "JAVA", "Javascript", "C++",
                     <br>              "Frontend-Library" : "REACT",
                     <br>              "Backend-Framework" : "Hibernate", "SpringBoot",
                     <br>              "Databases" : "SQL", "NoSQL"
