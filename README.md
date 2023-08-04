@@ -8,7 +8,7 @@ RESUME LINK 👉 https://drive.google.com/file/d/15AxRTAuQD3svkjfB34ZgOmnsV7-wlE
 
 <p align="left"> <a href="https://twitter.com/NitishK68625588" target="blank"><img src="https://img.shields.io/twitter/follow/NitishK68625588?logo=twitter&style=for-the-badge" alt="NitishK68625588" /></a> </p>
 
-- 🔭 I’m currently working on **FULL STACK JAVA || FRONTEND**
+- 🔭 I’m currently working on **FULL STACK JAVA || FRONTEND** 
 
 - 🌱 I’m currently learning **Core Java, Servlet, JSP, Hibernate, SpringBoot, Microservices || Data Structure & Algorithm in Java. || Database: MYSQL, MongoDB || Fronted Library: React**
 
