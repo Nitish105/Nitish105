@@ -6,7 +6,7 @@ RESUME LINK 👉 https://drive.google.com/file/d/15AxRTAuQD3svkjfB34ZgOmnsV7-wlE
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish105&label=Profile%20views&color=0e75b6&style=flat" alt="nitish105" /></p>
 
-<p align="left"> <a href="https://twitter.com/NitishK68625588" target="blank"><img src="https://img.shields.io/twitter/follow/NitishK68625588?logo=twitter&style=for-the-badge" alt="NitishK68625588" /></a></p>
+<p align="left"> <a href="https://twitter.com/NitishK686255882" target="blank"><img src="https://img.shields.io/twitter/follow/NitishK686255882?logo=twitter&style=for-the-badge" alt="NitishK686255882" /></a></p>
 
 - 🔭 I’m currently working on **FULL STACK JAVA || FRONTEND** 
 
