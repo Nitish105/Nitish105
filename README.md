@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NITISH KUMAR 😎</h1>
 <h3 align="center">A passionate & self Learner👉 FULL STACK MERN  -> FRONTEND + BACKEND </h3>
-RESUME LINK 👉 https://drive.google.com/file/d/15AxRTAuQD3svkjfB34ZgOmnsV7-wlEM1/view?usp=sharing
+RESUME LINK 👉 
 <img align="right" alt="coding" width="400" src="https://github.com/Nitish105/Nitish105/assets/83354680/942530c3-689a-4fd6-b882-13545e459e21.gif">
 
 
