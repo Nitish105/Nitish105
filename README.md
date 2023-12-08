@@ -4,7 +4,7 @@ RESUME LINK 👉
 <img align="right" alt="coding" width="400" src="https://github.com/Nitish105/Nitish105/assets/83354680/942530c3-689a-4fd6-b882-13545e459e21.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish105&label=Profile%20views&color=0e75b6&style=flat" alt="nitish105"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish105&label=Profile%20views&color=0e75b6&style=flat" alt="nitish105"/></p> 
 
 <p align="left"> <a href="https://twitter.com/NitishK686255882" target="blank"><img src="https://img.shields.io/twitter/follow/NitishK686255882?logo=twitter&style=for-the-badge" alt="NitishK686255882"/></a></p>
 
