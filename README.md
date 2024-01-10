@@ -1,3 +1,5 @@
+![banner](https://github.com/Nitish105/Nitish105/assets/83354680/8a388c8f-ddfb-4a3f-bb2e-0ebb79d7a2f8)
+
 <h1 align="center">Hi 👋, I'm NITISH KUMAR 😎</h1>
 <h3 align="center">A passionate & self Learner👉 FULL STACK MERN  -> FRONTEND + BACKEND </h3>
 RESUME LINK 👉  
