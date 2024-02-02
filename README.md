@@ -14,10 +14,10 @@ RESUME LINK 👉
 - 🌱 I’m currently learning **Core Java With Data Structure & Algorithm || Database: MYSQL, MongoDB || Fronted Library: React, Backend Library: Nodejs**
 
 - 💬 Ask me about ** <br>  const mySkills🎯 = {
-                    <br>              "Languages" : "JAVA", "Javascript", "C++",
-                    <br>              "Frontend-Library" : "REACT", "Redux"
-                    <br>              "Backend-Framework" : "Nodejs",
-                    <br>              "Databases" : "SQL", "NoSQL"
+                    <br>              "Programming Languages" : "JAVA", "Javascript", "Core Python",
+                    <br>              "Frontend-Libraries" : "Reactjs", "Bootstrap", "Tailwind CSS", "Material UI", "SCSS"
+                    <br>              "Backend-Frameworks" : "Nodejs", "Expressjs", "RestAPI"
+                    <br>              "Databases Tools" : "SQL", "NoSQL"
                     <br>             } ** 
 
 - 📫 How to reach me **nitishkumar105.singh@gmail.com**
