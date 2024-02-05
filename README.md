@@ -15,7 +15,7 @@ RESUME LINK 👉
 - 🌱 I’m currently learning **Core Java With Data Structure & Algorithm || Database: MYSQL, MongoDB || Fronted Library: React, Backend Library: Nodejs**
 
 - 💬 Ask me about ** <br>  const mySkills🎯 = {
-                    <br>              "Programming Languages" : "JAVA", "Javascript", "Core Python", "SQL", "MySQL"
+                    <br>              "Programming Languages" : "JAVA", "Javascript", "Core Python", "SQL"
                     <br>              "Frontend-Libraries" : "Reactjs", "Bootstrap", "Tailwind CSS", "Material UI", "SCSS"
                     <br>              "Backend-Frameworks" : "Nodejs", "Expressjs", "RestAPI"
                     <br>              "Databases Tools" : "MySQL", "MongoDB"
