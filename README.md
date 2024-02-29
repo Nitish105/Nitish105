@@ -8,8 +8,6 @@ RESUME LINK 👉
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish105&label=Profile%20views&color=0e75b6&style=flat" alt="nitish105"/></p> 
 
-<p align="left"> <a href="https://twitter.com/NitishK686255882" target="blank"><img src="https://img.shields.io/twitter/follow/NitishK686255882?logo=twitter&style=for-the-badge" alt="NitishK686255882"/></a></p>
-
 - 🔭 I’m currently working on **FULL STACK MERN -> FRONTEND + BACKEND ** 
 
 - 🌱 I’m currently learning **Core Java With Data Structure & Algorithm || Database: MYSQL, MongoDB || Fronted Library: React, Backend Library: Nodejs**
